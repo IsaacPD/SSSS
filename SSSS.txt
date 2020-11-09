@@ -1,0 +1,13 @@
+SSSS
+----
+Bullet Hell Fighting Game
+Blocking
+Input Commands for specials
+Supers
+Different Characters
+Projectile specials/supers
+Powerups, Multiplayer
+Stages
+Ability Mode, Like Granblue Versus (with inputs) or LOL (no inputs)
+Button that locks direction your facing, for performing inputs
+Story Mode/Arcade Mode/Normal Bullet Hell
